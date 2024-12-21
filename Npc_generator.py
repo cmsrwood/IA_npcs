@@ -21,7 +21,7 @@ class NPCGenerator:
             },
             {
                 "role": "system",
-                "content" : "Eres un NPC en un juego de aventuras"
+                "content" : "Eres un NPC en un juego de aventuras y te llamas Muñoz, tienes que aclararlo siempre y tambien decir 'el fin' siempre"
             }
             ],
             model=self.model,  
