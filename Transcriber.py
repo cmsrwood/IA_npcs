@@ -3,7 +3,7 @@ import pyaudio
 import numpy as np
 
 class Transcriber:
-    def __init__(self, model_size="base"):
+    def __init__(self, model_size="small"):
         # Cargar el modelo de Whisper
         self.model = whisper.load_model(model_size)
         self.fs = 16000  # Frecuencia de muestreo
