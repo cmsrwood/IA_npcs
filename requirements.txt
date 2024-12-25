@@ -2,3 +2,4 @@ openai-whisper
 openai
 python-dotenv
 pyaudio
+keyboard
