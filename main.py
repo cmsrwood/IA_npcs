@@ -7,7 +7,7 @@ transcriber = Transcriber()
 # npc_generator = NPCGenerator()
 
 if __name__ == "__main__":
-    npc = NPCGenerator("Mono")  # Crear un NPC llamado Muñoz
+    npc = NPCGenerator("Camilo")  # Crear un NPC llamado Muñoz
     
     # Función para cuando se presiona una tecla
     def on_press(key):
