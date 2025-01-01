@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_B.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BL.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BR.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_F.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FL.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FR.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LL.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LR.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_RL.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/M_Neutral_Stand_Idle_Loop.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/BS_StrafeMovement.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/ThirdPerson/Input/Actions/IA_Lock.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Blueprints/BPC_Combat.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/UI/WB_TargetLock.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Blueprints/BPC_Target.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Blueprints/BPC_TargetLockWidget.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3D/NLOVYDVV1V7T6F6IOJJWKQ.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/UI/Icons/Target_Lock.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset",
+				"C:/Users/dilan/OneDrive/Documents/Unreal Projects/IA_NPCS/Content/Characters/Souls/Movement/BK.uasset"
+			]
+		}
+	]
+}
